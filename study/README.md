@@ -1,6 +1,8 @@
 # study
 
-A new Flutter project.
+to run this project 
+clone this repo
+Directly run 
 
 ## Getting Started
 
