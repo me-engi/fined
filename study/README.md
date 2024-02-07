@@ -1,8 +1,8 @@
 # study
 
 to run this project 
-clone this repo
-Directly run 
+clone this repo and
+Directly run , if necessary do "dart pub update ".
 
 ## Getting Started
 
